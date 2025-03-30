@@ -71,21 +71,17 @@
 
 
 Dataset sources:
-- TDBrain dataset: please refer to paper [1].
-- ADFTD dataset: please refer to paper [2,3].
-- PTB-XL dataset: please refer to paper [4].
-- SleepEDF dataset: please refer to paper [5].
-- OnHW-Char dataset: https://www.iis.fraunhofer.de/de/ff/lv/dataanalytics/anwproj/schreibtrainer/onhw-dataset.html.
-- 
-[1] Van Dijk, Hanneke, et al. "The two decades brainclinics research archive for insights in neurophysiology (TDBRAIN) database." Scientific data 9.1 (2022): 333.
 
-[2] Miltiadous, Andreas, et al. "A dataset of scalp EEG recordings of Alzheimer’s disease, frontotemporal dementia and healthy subjects from routine EEG." Data 8.6 (2023): 95.
 
-[3] Miltiadous, Andreas, et al. "DICE-net: a novel convolution-transformer architecture for Alzheimer detection in EEG signals." IEEe Access 11 (2023): 71840-71858.
+| Dataset    | Source                                                                                                                                                                                                                                                                                                                                       |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TDBrain    | "The two decades brainclinics research archive for insights in neurophysiology (TDBRAIN) database."                                                                                                                                                                           |
+| ADFTD      | "A dataset of scalp EEG recordings of Alzheimer’s disease, frontotemporal dementia and healthy subjects from routine EEG."  "DICE-net: a novel convolution-transformer architecture for Alzheimer detection in EEG signals."  |
+| PTB-XL     | "PTB-XL, a large publicly available electrocardiography dataset."                                                                                                                                                                                                                  |
+| SleepEDF   |  "Analysis of a sleep-dependent neuronal feedback loop: the slow-wave microcontinuity of the EEG."                                                                                                         |
+| OnHW-Chars | https://www.iis.fraunhofer.de/de/ff/lv/dataanalytics/anwproj/schreibtrainer/onhw-dataset.html. "The onhw dataset: Online handwriting recognition from imu-enhanced ballpoint pens with machine learning." "Benchmarking online sequence-to-sequence and character-based handwriting recognition from IMU-enhanced pens."                                                                                                                                                                                                                              |
 
-[4] Wagner, Patrick, et al. "PTB-XL, a large publicly available electrocardiography dataset." Scientific data 7.1 (2020): 1-15.
 
-[5] Kemp, Bob, et al. "Analysis of a sleep-dependent neuronal feedback loop: the slow-wave microcontinuity of the EEG." IEEE Transactions on Biomedical Engineering 47.9 (2000): 1185-1194.
 
 
 
