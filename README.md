@@ -2,7 +2,7 @@
 
 
 ## Full results on UEA datasets (29 datasets selected by NuTime). Our model outperforms both alternative methods. We will include the comparison in our final version.
-|  | UNI. | NuTime (self-supervised) | ITIME+SAN |
+|  | Ours (UNI.) | NuTime (self-supervised) | ITIME+SAN |
 |---|:---:|:---:|:---:|
 | ArticularyWordRecognition | 99.3 | 99.4 | 98.2 |
 | AtrialFibrillation | 56.7 | 34.7 | 38.3 |
