@@ -35,7 +35,7 @@
 | UWaveGestureLibrary | 90.2 | 95.5 | 87.3 |
 | Avg. | **78.3** | 77.8 | 74.4 |
 
-# Reviewer QtfR
+# Response to Reviewer QtfR
 
 ## Single-backward vs Double-backward FIC
 |Metrics|Accuracy(%)||Runtime(s)||
@@ -53,7 +53,7 @@
 |PS|81.3|79.2|0.445|0.185|
 |**Avg.**|77.4|76.8|0.147|0.070|
 
-# Reviewer YXQa
+# Response to Reviewer YXQa
 
 ## Full results of explicit domain-shift datasets
 |Dataset|Method|Acc.|Bal.Acc.|F1|P|R|
