@@ -37,6 +37,12 @@
 
 # Response to Reviewer QtfR
 
+## Updated Figure 1 with Caption
+
+<img src="https://github.com/AnonymousUserss/ICML2025-4119-Response/blob/main/updated_fig1.png" width="500" />
+
+
+
 ## Single-backward vs Double-backward FIC
 |Metrics|Accuracy(%)||Runtime(s)||
 |:-:|:-:|:-:|:-:|:-:|
@@ -54,12 +60,6 @@
 |**Avg.**|77.4|76.8|0.147|0.070|
 
 # Response to Reviewer YXQa
-
-## Updated Figure 1 with Caption
-
-<img src="https://github.com/AnonymousUserss/ICML2025-4119-Response/blob/main/new_concept_fig.jpg" width="500" />
-
-
 
 
 
