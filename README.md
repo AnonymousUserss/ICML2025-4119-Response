@@ -55,6 +55,14 @@
 
 # Response to Reviewer YXQa
 
+## Updated Figure 1 with Caption
+
+<img src="https://github.com/AnonymousUserss/ICML2025-4119-Response/blob/main/new_concept_fig.jpg" width="500" />
+
+
+
+
+
 ## Full results of explicit domain-shift datasets
 |Dataset|Method|Acc.|Bal.Acc.|F1|P|R|
 |---|---|---|---|---|---|---|
